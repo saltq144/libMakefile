@@ -1,2 +1,2 @@
-C-WFLAGS -Wall -Wextra -Wundef -Wunused-macros -Wstrict-prototypes
+C-GCC-WFLAGS -Wall -Wextra -Wundef -Wunused-macros -Wstrict-prototypes
 
